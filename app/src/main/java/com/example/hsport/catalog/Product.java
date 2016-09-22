@@ -7,7 +7,7 @@ package com.example.hsport.catalog;
     private String description;
     private double price;
 
-    protected String getProductId() {
+    public String getProductId() {
         return productId;
     }
 
